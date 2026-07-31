@@ -9,3 +9,5 @@ day=int(input("Enter today date:"))
 time=30-day
 print("\n Your rent:",rent,"\n Food Expendature:",food,"\n You spent ",unit,"unit electricty","\n Total persons:",per)
 print("\n Rent per person is:",total_bill,"your rent paying dete is come in ",time,"Days.")
+
+print("This is the ecpected ren of your month")
